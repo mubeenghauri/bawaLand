@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <title> BawaLand | Login </title>
+
+    
+</head>
+<body>
+
+        <!-- Tob Navbar  -->
+        <nav class="navbar navbar-dark bg-dark">
+            <!-- Navbar content -->
+                <span class="nav-head"> Bawa<span class="nav-span">Land</span></span>
+        </nav>
+
+        <!-- Main Form -->
+        <div class="login-form">
+
+            <div class="form-heading"> 
+                <span class="nav-head-black"> Bawa<span class="nav-span">Land</span></span>
+            </div>
+            <form action="/auth" method="POST">
+                <div class="form-group">
+                    <label class="exampleInputEmail">Email address</label>
+                    <input name="username" type="email" class="form-control"  aria-describedby="emailHelp" placeholder="Enter email">
+                     <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
+                </div>
+                <div class="form-group">
+                    <label class="exampleInputPassword">Password</label>
+                    <input name="pass" type="password" class="form-control"  placeholder="Password">
+                </div>
+                
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+</body>
+</html>

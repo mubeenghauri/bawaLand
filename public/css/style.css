@@ -1,0 +1,53 @@
+
+/*
+ * Custom CSS for some elements
+ *
+ **/
+
+.nav-head {
+    color: white;
+    font-size: 20px;
+    font-weight: 20000;
+}
+
+.nav-head-black {
+    color: black;
+    font-size: 20px;
+    font-weight: 20000;
+}
+
+.nav-span {
+    color: red;
+    font-size: 25px;
+}
+
+.login-form {
+    padding-top: 5%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    align-items: center;
+    align-self: auto;   
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.form-heading {
+    text-align: center;
+    padding-bottom: 2%;
+    font-weight: 600;
+    font-size: 100px;    
+}
+
+.exampleInputEmail {
+    text-align: center;
+}
+
+.form-group {
+    text-align: center;
+}
+
+.btn-primary {
+  margin-left: 45%;
+  margin-right: 50%;
+}

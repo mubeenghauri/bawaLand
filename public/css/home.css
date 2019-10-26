@@ -1,0 +1,31 @@
+
+/* 
+ *  Custom CSS for home.ejs page
+ * */
+
+
+ .main-wrapper {
+     margin-left: 10%;
+     margin-right: 10%;
+     margin-bottom: 10%;
+
+ }
+
+ .note {
+     padding-top: 2%;
+     padding-bottom: 2%;
+     background: white;
+     border: 5px;
+     border-style: solid;
+     text-align: center;
+     margin-bottom: 20px;    
+ }
+
+ .note-title {
+     color: red;
+     font-family: sans-serif;
+     font-size: 30px;
+     text-decoration-style: dashed;
+     
+    
+ }

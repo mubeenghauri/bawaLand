@@ -1,0 +1,67 @@
+h1{
+    color: yellow;
+}
+
+body {
+    background: url("bwl.jpg");
+    background-position: center;
+    background-image: linear-gradient(23%);
+    background-size: cover;
+    color: black;
+    font-family: 'Lobster', cursive;
+
+
+}
+
+
+.ps 
+{
+    align-content: center;
+    padding-left: 43%;
+}
+
+
+
+.xtc{
+    /* font-family: 'Modak', cursive; */
+    font-size:  1px;
+    
+}
+
+.l{
+    font-size: 100px;
+    color: #ebbd34;
+}
+
+.roll
+{
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    color: whitesmoke;
+}
+.sup
+{
+    color: #ebbd34;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    
+}
+
+p {
+    /* padding-left: 50%;
+    padding-top: 100px;
+    padding-right: 50%; */
+    color: black;
+    padding-top: 150px;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+
+    /* align-content: center; */
+}
+
+h6 {
+    font-family: 'Lobster', cursive;
+    /* padding-top: 150px; */
+    text-align: center;
+}
